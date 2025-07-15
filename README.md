@@ -166,6 +166,8 @@ For instance, assuming a fixed `last_layer_degree_bound`,
 a larger number of steps requires changes to the `fri_step_list`
 to maintain the equality.
 
+# Config for Updates
+
 FRI steps should typically be in the range 2-4;
 the degree bound should be in the range 4-7.
 
